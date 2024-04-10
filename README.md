@@ -22,6 +22,10 @@ Design a custom digital filter via zeros-poles placement on the z-plane, and app
 - pyqtgraph
 - Matplotlib
 - Pymouse
+- Logging
+- Threading
+- Scipy
+- PIL
 
 ## Team Members
 
